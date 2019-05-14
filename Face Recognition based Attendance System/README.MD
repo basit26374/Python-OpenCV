@@ -1,4 +1,6 @@
-                  How to Run the Face Recognition Program
+How to Run the Face Recognition Program
+
+
 1. After power up the raspberry pi, first of all you may click on command
 prompt and type
   source ~/.profile
@@ -17,7 +19,9 @@ want to quit the program, place the mouse cursor on frame and just type
 generate on your desktop which is named as “Attend.xlsx”
 
 
-                  How to Create Database for New Users
+How to Create Database for New Users
+
+
 1. Just open the “add_user.py” file which is placed on “/home/pi” directory.
 2. Run the script using “F5”
 3. Frame goes appear on your screen.
