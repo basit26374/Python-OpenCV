@@ -1,3 +1,10 @@
+This Project is based on Raspberry pi with attendance on xlsx sheet.
+
+Here are the steps how to add users and how to run the program
+For More Details, please check the Adrain rosebrock Face Recognition tutorial https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
+
+
+
 How to Run the Face Recognition Program
 
 
