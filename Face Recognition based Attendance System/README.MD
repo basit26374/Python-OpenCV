@@ -45,4 +45,4 @@ encodings encodings.pickle \
 
 
 
-This project is mdified version of adrian rosebrock Face Recognition tutorial https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
+This project is modified version of adrian rosebrock Face Recognition tutorial https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
