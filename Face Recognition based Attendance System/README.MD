@@ -1,7 +1,7 @@
                   How to Run the Face Recognition Program
 1. After power up the raspberry pi, first of all you may click on command
 prompt and type
-source ~/.profile
+  source ~/.profile
 2. Then you may go into virtual environment using type
 workon project
 3. Then you go into the directory of your project file, which is named as “piface-recognition” using type on command prompt
